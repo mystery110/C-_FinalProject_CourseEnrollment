@@ -1,0 +1,26 @@
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\Test Panel.exe.config
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\Test Panel.exe
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\Test Panel.pdb
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test Panel.csprojResolveAssemblyReference.cache
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test_Panel.Form1.resources
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test_Panel.Properties.Resources.resources
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test Panel.csproj.GenerateResource.Cache
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test Panel.exe
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\obj\Debug\Test Panel.pdb
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\Database1.mdf
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\Database1_log.ldf
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\TestCourse.mdf
+D:\Course\C #\Hw\Final Project\Test Panel\Test Panel\bin\Debug\TestCourse_log.ldf
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\Test Panel.exe.config
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test Panel.exe
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test Panel.pdb
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test Panel.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test_Panel.Form1.resources
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test_Panel.Properties.Resources.resources
+C:\Users\kevin\Desktop\Final Project\Test Panel\obj\Debug\Test Panel.csproj.GenerateResource.Cache
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\Database1.mdf
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\Database1_log.ldf
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\TestCourse.mdf
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\TestCourse_log.ldf
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\Test Panel.exe
+C:\Users\kevin\Desktop\Final Project\Test Panel\bin\Debug\Test Panel.pdb
